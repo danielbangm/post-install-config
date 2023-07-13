@@ -26,7 +26,7 @@ In this tutorial I will outline the difference between Admin panel and Agent pan
 
 -  All you need for this lab is to do <a href="https://github.com/danielbangm/osticket-prereqs/blob/main/README.md">the first part.</a>
 
-<h2>Projects Steps</h2>
+<h2>Project Steps</h2>
 
 -  Step 1: Admin panel vs Agent panel
 
